@@ -2,4 +2,6 @@
 University Project
 
 Activate virtual environment on windows\
+```
 .\venv\Scripts\activate
+```
